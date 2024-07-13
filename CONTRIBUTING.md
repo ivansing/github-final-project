@@ -24,9 +24,9 @@ Changes that are cosmetic and do not add anything substantial to the stability, 
 
 #### **Do you intend to add a new feature or change an existing one?**
 
-* Suggest your change in the [rubyonrails-core mailing list](https://github.com/ivansing/github-final-project) and start writing code.
+* Suggest your change in the [github-final-project mailing list](https://github.com/ivansing/github-final-project) and start writing code.
 
-* Wait to open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
+* Please wait to open an issue on GitHub until you have gotten positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
 
 * We generally reject changes to Active Support core extensions. Instead, those changes should be proposed in the [github-final-project issue tracker](https://github.com/ivansing/github-final-project), as we don't want to conflict with future versions of this final project.
 
