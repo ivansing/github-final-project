@@ -30,3 +30,25 @@ Do not use this script in production. It is for sample purposes only.
 3. Run the script with the following command:
    ```bash
    ./simple_interest_calculator.sh
+   ```
+4. Follow the prompts to enter the principal amount, annual rate of interest, and time period in years.
+5. The script will calculate and display the simple interest.
+
+### Example: 
+```bash
+Enter the principal:
+1000
+Enter the rate of interest per year:
+5
+Enter period in years:
+2
+The simple interest is: 
+100
+```
+## License
+This project is licensed under the MIT License.
+
+
+
+
+
