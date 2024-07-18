@@ -30,9 +30,3 @@ Do not use this script in production. It is for sample purposes only.
 3. Run the script with the following command:
    ```bash
    ./simple_interest_calculator.sh
-
-
-
-   
-
-   
