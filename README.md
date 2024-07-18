@@ -9,7 +9,7 @@ Do not use this script in production. It is for sample purposes only.
 ## Authors
 
 - Upkar Lidder (IBM)
-- Additional Authors: [Your GitHub Username]
+- Additional Authors: Ivansing
 
 ## How to Use
 
